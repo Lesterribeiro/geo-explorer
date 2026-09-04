@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    {
+      "id": "python-dev",
+      "technology": "Python",
+      "level": "Iniciante",
+      "modules": ["Sintaxe Básica", "Estruturas de Dados", "POO", "Manipulação de Arquivos"]
+    },
+    {
+      "id": "gdscript-godot",
+      "technology": "GDScript",
+      "level": "Intermediário",
+      "modules": ["Arquitetura de Nós", "Lógica 2D", "Gestão de Sinais", "Exportação Mobile"]
+    }
+  ],
+  "challenges": [
+    {
+      "technology": "Python",
+      "level": "Iniciante",
+      "prompt": "Crie uma função que receba uma lista de inteiros e retorne apenas os números pares."
+    },
+    {
+      "technology": "GDScript",
+      "level": "Intermediário",
+      "prompt": "Implemente um script utilizando CharacterBody2D para mover um personagem nas quatro direções."
+    }
+  ]
+}
