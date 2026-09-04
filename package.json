@@ -1,0 +1,13 @@
+{
+  "name": "geo-explorer",
+  "version": "1.0.0",
+  "description": "Explorador de trilhas de aprendizagem e emissão de certificados com suporte a MCP.",
+  "main": "src/services/dataService.js",
+  "scripts": {
+    "start": "node src/mcp/server.js",
+    "test": "node tests/dataService.test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
